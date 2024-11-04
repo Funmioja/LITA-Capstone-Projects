@@ -202,6 +202,10 @@ THEN 1 ELSE 0 END) = 0
 -  Monthly Sales Trend Chart
 -  [Sum of sales per month](https://github.com/user-attachments/assets/4bbf92ef-f3bd-4d90-b5f2-ce07a73803f1)
 
+-  Total Sales KPI using a card format
+-  [Totalsale PBI](https://github.com/user-attachments/assets/eb3841a4-739a-40b3-b21e-cf84a6b03a02)
+
+
 
 
 
