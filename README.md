@@ -196,6 +196,9 @@ THEN 1 ELSE 0 END) = 0
 - Ensure Data Types: Set appropriate data types for each column (e.g., date for OrderDate, decimal for UnitPrice).
 - Click Close & Apply to load the transformed data into Power BI.
 
+## Dashboard Layout & Visualizations
+# Sales Overview Section
+
 
 
 
