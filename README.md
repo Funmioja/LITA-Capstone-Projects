@@ -87,7 +87,15 @@ ORDER BY
   - [Totale Sales SQL](https://github.com/user-attachments/assets/fcdd5d5b-b259-4474-9ed0-8c1e32fd30dc)
 
 - Calculate to find the number of sales transactions in each region.
-
+- SELECT 
+    Region, 
+    COUNT(*) AS NumberOfTransactions
+FROM 
+     [dbo].[LITA_Capstone_Saledataset]
+GROUP BY 
+    Region
+ORDER BY 
+    NumberOfTransactions DESC;
 
 
 
