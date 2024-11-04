@@ -187,6 +187,9 @@ THEN 1 ELSE 0 END) = 0
 - Top-Performing Products
 - Regional Sales Breakdown
 
+## Data Preparation
+# Data Transformation
+
 
 
 
