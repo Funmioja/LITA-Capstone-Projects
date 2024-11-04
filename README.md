@@ -43,6 +43,8 @@ Code used what the:
 ## Total Revenue by Region
 Using a SUMIF formula, I calculated the total revenue for each region as follows:
 - =SUMIF(Region, "Region Name", Total Sales)
+- [Total Revenue by Region](https://github.com/user-attachments/assets/1514d496-15a5-4c37-9466-2c5287ef456d)
+
 
 
 
