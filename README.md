@@ -179,6 +179,11 @@ THEN 1 ELSE 0 END) = 0
 - Top Customers: Identifies the top 5 customers by revenue, useful for targeted customer retention efforts.
 - Monthly and Yearly Trends: Shows sales patterns across months and compares monthly sales over different years to spot seasonal patterns.
 
+### Power BI Sales Dashboard Report
+## Overview
+
+- This Power BI report will guide you through an interactive dashboard to visualize sales insights, focusing on:
+
 
 
 
