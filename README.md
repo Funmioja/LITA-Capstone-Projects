@@ -124,6 +124,17 @@ ORDER BY
   - [Total Revenue by Sales](https://github.com/user-attachments/assets/118aa14e-dc09-49c8-83a7-4dc09d5e851a)
 
 ## calculate monthly sales totals for the current year.
+- SELECT 
+    MONTH (OrderDate) AS Sales_Month, 
+    SUM(Quantity * UnitPrice) AS TotalSales
+FROM 
+    [dbo].[LITA_Capstone_Saledataset]
+WHERE 
+    YEAR(OrderDate) = YEAR(GETDATE())
+GROUP BY 
+    MONTH (OrderDate)
+ORDER BY 
+    Sales_Month;
 
 
 
