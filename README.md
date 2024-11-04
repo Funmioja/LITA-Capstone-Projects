@@ -75,7 +75,15 @@ Assume we have a table called sales_data with the following structure:
 
 ## Calculate to Retrive the total sales for easch product category
 we can use this SQL query 
-
+SELECT 
+    Product, 
+    SUM(Quantity * UnitPrice) AS TotalSales
+FROM 
+    LITA_SalesData_Project
+GROUP BY 
+    Product
+ORDER BY 
+    TotalSales DESC;
 
 
 
