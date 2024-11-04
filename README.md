@@ -37,11 +37,12 @@ I used a pivot table to analyze Total Sales by:
 ## Average Sales per Product
 To analyze average revenue generated per product, I calculated the average Total Sales for each product.
 Code used what the:
-=AVERAGEIF Function (product column, product name, total sales)
+=AVERAGEIF Function (product column, "product name", total sales)
 - [Average sales of all Product ](https://github.com/user-attachments/assets/f7002a78-9831-4a18-b9cb-cd6df708c7f5)
 
 ## Total Revenue by Region
-Using a SUMIF formula, I calculated the total revenue for the "East" region as follows:
+Using a SUMIF formula, I calculated the total revenue for each region as follows:
+- =SUMIF(Region, "Region Name", Total Sales)
 
 
 
