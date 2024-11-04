@@ -75,6 +75,7 @@ Assume we have a table called sales_data with the following structure:
 - calculate monthly sales totals for the current year.
 - find the top 5 customers by total purchase amount.
 - calculate the percentage of total sales contributed by each region.
+- identify products with no sales in the last quarte.
   
 ## Calculate to Retrive the total sales for easch product category
 - we can use this SQL query 
@@ -162,6 +163,16 @@ FROM [dbo].[LITA_Capstone_Saledataset]
 GROUP BY Region
 ORDER BY RevenuePercentage DESC;
 - [Regionaal Revenuseper](https://github.com/user-attachments/assets/ec498b2b-eafc-407b-a59a-1d8bf449de1b)
+
+## identify products with no sales in the last quarter.
+- SELECT Product 
+FROM [dbo].[LITA_Capstone_Saledataset]
+GROUP BY Product
+HAVING SUM(CASE 
+WHEN OrderDate BETWEEN '2024-06-01' AND '2024-08-31' 
+THEN 1 ELSE 0 END) = 0
+- [Product with no Sales](https://github.com/user-attachments/assets/1d819356-2667-45e6-979a-97e15e8723c9)
+
 
 
 
