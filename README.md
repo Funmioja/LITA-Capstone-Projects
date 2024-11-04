@@ -73,6 +73,7 @@ Assume we have a table called sales_data with the following structure:
 - find the highest-selling product by total sales value..
 - calculate total revenue per product.
 - calculate monthly sales totals for the current year.
+- find the top 5 customers by total purchase amount.
   
 ## Calculate to Retrive the total sales for easch product category
 - we can use this SQL query 
@@ -136,6 +137,9 @@ GROUP BY
 ORDER BY 
     Sales_Month;
   - [Sales by Month](https://github.com/user-attachments/assets/7b8572be-1f10-4360-b32c-bdfb2350d9e8)
+    
+## find the top 5 customers by total purchase amount.
+
 
 
 
