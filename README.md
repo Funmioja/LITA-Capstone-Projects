@@ -26,7 +26,10 @@ The dataset contains the following columns:
 To facilitate analysis, I calculated Total Sales by adding a new column using the formula:
 Total Sales = Quantity * UnitPrice
 
-![Total Sale](https://github.com/user-attachments/assets/0b34f06d-d57b-4ec6-9498-af5eb3126034)
+- [Total Sale](https://github.com/user-attachments/assets/37178c9a-82bb-42ac-8d31-d6769a501c03)
+
+
+
 
 
 
