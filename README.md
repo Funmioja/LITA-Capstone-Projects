@@ -67,4 +67,10 @@ Assume we have a table called sales_data with the following structure:
 - Quantity	INT	Number of items ordered
 - UnitPrice	SMALLINT	Price per unit of the product
 
+## Goals of the Analysis
+- Summarize total sales (revenue) by product, region, and month.
+- Calculate average sales per product.
+- Determine total revenue by region.
+I will be working on this fill steps 
+
 
