@@ -73,4 +73,4 @@ Assume we have a table called sales_data with the following structure:
 - Determine total revenue by region.
 - I will be working on this fill steps 
 
-
+## Calculate Total Sales (Revenue) for Each Order
