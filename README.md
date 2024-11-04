@@ -40,7 +40,8 @@ Code used what the:
 =AVERAGEIF Function (product column, product name, total sales)
 - [Average sales of all Product ](https://github.com/user-attachments/assets/f7002a78-9831-4a18-b9cb-cd6df708c7f5)
 
-
+## Total Revenue by Region
+Using a SUMIF formula, I calculated the total revenue for the "East" region as follows:
 
 
 
