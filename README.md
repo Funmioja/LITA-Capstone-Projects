@@ -16,6 +16,12 @@ The dataset contains the following columns:
 - Quantity: Quantity of products ordered
 - UnitPrice: Price per unit of the product
 
+## Analysis Goals
+1.Summarize total sales (revenue) by product, region, and month.
+2.Calculate average sales per product.
+3.Determine total revenue by region.
+4.Highlight additional insights, such as monthly trends, top customers, and year-over-year performance.
+
 
 
 
