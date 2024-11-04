@@ -98,7 +98,7 @@ ORDER BY
     NumberOfTransactions DESC;
   - [Sales by Region](https://github.com/user-attachments/assets/4d9a732e-1667-4dae-ba3c-b75ee2801711)
  
-  - find the highest-selling product by total sales value.
+find the highest-selling product by total sales value.
   - 
 
 
