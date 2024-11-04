@@ -74,6 +74,7 @@ Assume we have a table called sales_data with the following structure:
 - calculate total revenue per product.
 - calculate monthly sales totals for the current year.
 - find the top 5 customers by total purchase amount.
+- calculate the percentage of total sales contributed by each region.
   
 ## Calculate to Retrive the total sales for easch product category
 - we can use this SQL query 
@@ -149,6 +150,19 @@ GROUP BY
 ORDER BY 
     TotalPurchaseAmount DESC;
   - [Top 5 Customer](https://github.com/user-attachments/assets/2e267175-a587-43db-b167-a50cb32addca)
+
+## calculate the percentage of total sales contributed by each region.
+- SELECT 
+    Region,
+    SUM(Quantity * UnitPrice) AS TotalRevenue,
+   (SUM(Quantity * UnitPrice)* 100)/
+   SUM(SUM(Quantity * UnitPrice)) OVER ()
+   AS RevenuePercentage
+FROM [dbo].[LITA_Capstone_Saledataset]
+GROUP BY Region
+ORDER BY RevenuePercentage DESC;
+- [Regionaal Revenuseper](https://github.com/user-attachments/assets/ec498b2b-eafc-407b-a59a-1d8bf449de1b)
+
 
 
 
