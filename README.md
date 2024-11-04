@@ -98,7 +98,16 @@ ORDER BY
   - [Sales by Region](https://github.com/user-attachments/assets/4d9a732e-1667-4dae-ba3c-b75ee2801711)
  
 ## find the highest-selling product by total sales value.
-  - 
+  - SELECT TOP 1 
+    Product, 
+    SUM(Quantity * UnitPrice) as
+	Total_sales_value
+FROM 
+    [dbo].[LITA_Capstone_Saledataset]
+GROUP BY 
+    Product
+ORDER BY 
+    Total_Sales_value DESC
 
 
 
