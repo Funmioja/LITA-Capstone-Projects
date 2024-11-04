@@ -17,10 +17,15 @@ The dataset contains the following columns:
 - UnitPrice: Price per unit of the product
 
 ## Analysis Goals
-1.Summarize total sales (revenue) by product, region, and month.
-2.Calculate average sales per product.
-3.Determine total revenue by region.
-4.Highlight additional insights, such as monthly trends, top customers, and year-over-year performance.
+- Summarize total sales (revenue) by product, region, and month.
+- Calculate average sales per product.
+- Determine total revenue by region.
+- Highlight additional insights, such as monthly trends, top customers, and year-over-year performance.
+
+## Data Preparation
+To facilitate analysis, I calculated Total Sales by adding a new column using the formula:
+Total Sales = Quantity * UnitPrice
+
 
 
 
