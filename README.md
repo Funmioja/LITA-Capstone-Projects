@@ -56,5 +56,7 @@ The analysis focuses on calculating total sales by product, region, and month,
 as well as deriving additional metrics like average sales per product and total revenue by region. 
 These SQL queries can be used to quickly gather insights into the data for reporting and decision-making.
 
+## Table Structure
+Assume we have a table called sales_data with the following structure:
 
 
