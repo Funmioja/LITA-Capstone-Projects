@@ -74,7 +74,7 @@ Assume we have a table called sales_data with the following structure:
 - I will be working on this fill steps 
 
 ## Calculate to Retrive the total sales for easch product category
-we can use this SQL query 
+- we can use this SQL query 
 SELECT 
     Product, 
     SUM(Quantity * UnitPrice) AS TotalSales
@@ -84,6 +84,8 @@ GROUP BY
     Product
 ORDER BY 
     TotalSales DESC;
+  - [Totale Sales SQL](https://github.com/user-attachments/assets/fcdd5d5b-b259-4474-9ed0-8c1e32fd30dc)
+
 
 
 
