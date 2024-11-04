@@ -38,6 +38,8 @@ I used a pivot table to analyze Total Sales by:
 To analyze average revenue generated per product, I calculated the average Total Sales for each product.
 Code used what the:
 =AVERAGEIF Function 
+![Average sales of all Product ](https://github.com/user-attachments/assets/f7002a78-9831-4a18-b9cb-cd6df708c7f5)
+
 
 
 
