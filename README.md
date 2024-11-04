@@ -1,4 +1,4 @@
-![Highest Product](https://github.com/user-attachments/assets/fa5ce105-6cfd-42ca-9432-d13cc3bbee13)#### LITA-Capstone-Projects
+#### LITA-Capstone-Projects
 ### Sales Data Analysis Report on Capstone project
 ## Overview
 This report provides an initial exploration of a sales dataset to identify key insights and trends. 
