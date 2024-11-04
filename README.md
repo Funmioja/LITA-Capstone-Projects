@@ -70,7 +70,7 @@ Assume we have a table called sales_data with the following structure:
 ## Goals of the Analysis
 - Calculate to Retrive the total sales for easch product category.
 - find the number of sales transactions in each region.
-- Determine total revenue by region.
+- find the highest-selling product by total sales value..
 - I will be working on this fill steps 
 
 ## Calculate to Retrive the total sales for easch product category
@@ -97,6 +97,9 @@ GROUP BY
 ORDER BY 
     NumberOfTransactions DESC;
   - [Sales by Region](https://github.com/user-attachments/assets/4d9a732e-1667-4dae-ba3c-b75ee2801711)
+ 
+  - find the highest-selling product by total sales value.
+  - 
 
 
 
