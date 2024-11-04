@@ -189,6 +189,12 @@ THEN 1 ELSE 0 END) = 0
 
 ## Data Preparation
 # Data Transformation
+- In Power Query Editor, I perform the following transformations to ensure data consistency and ease of analysis:
+  
+- Add a Total Sales Column: Create a new column for total sales (TotalSales = Quantity * UnitPrice).
+- Extract Month and Year from OrderDate: Add calculated columns for OrderMonth (format: YYYY-MM) and OrderYear using Power Query’s date functions.
+- Ensure Data Types: Set appropriate data types for each column (e.g., date for OrderDate, decimal for UnitPrice).
+- Click Close & Apply to load the transformed data into Power BI.
 
 
 
