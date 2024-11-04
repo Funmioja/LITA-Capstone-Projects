@@ -135,6 +135,8 @@ GROUP BY
     MONTH (OrderDate)
 ORDER BY 
     Sales_Month;
+  - [Sales by Month](https://github.com/user-attachments/assets/7b8572be-1f10-4360-b32c-bdfb2350d9e8)
+
 
 
 
