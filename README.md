@@ -25,10 +25,13 @@ The dataset contains the following columns:
 ## Data Preparation
 To facilitate analysis, I calculated Total Sales by adding a new column using the formula:
 Total Sales = Quantity * UnitPrice
-
 - [Total Sale](https://github.com/user-attachments/assets/37178c9a-82bb-42ac-8d31-d6769a501c03)
 
-
+## Summary of Total Sales by Product, Region, and Month
+We used a pivot table to analyze Total Sales by:
+- Product: Grouped by each product category.
+- Region: Grouped by each sales region.
+- Month and Year: Grouped by month and year of the OrderDate field.
 
 
 
