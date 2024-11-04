@@ -50,7 +50,11 @@ This initial analysis provides a foundational understanding of the sales data an
 key insights such as monthly trends, high-revenue customers, and revenue performance.
 
 ### SQL Sales Data Analysis Report
-
+## Overview
+This report provides SQL queries for an initial exploration of sales data. 
+The analysis focuses on calculating total sales by product, region, and month, 
+as well as deriving additional metrics like average sales per product and total revenue by region. 
+These SQL queries can be used to quickly gather insights into the data for reporting and decision-making.
 
 
 
