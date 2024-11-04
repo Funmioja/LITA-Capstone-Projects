@@ -109,6 +109,19 @@ GROUP BY
 ORDER BY 
     Total_Sales_value DESC
   - [Highest Product](https://github.com/user-attachments/assets/19575113-7045-4e8b-abe7-9ea0423bf393)
+    
+## calculate total revenue per product.
+- SELECT 
+    Product, 
+    SUM(Quantity * UnitPrice) AS TotalRevenue
+FROM 
+    [dbo].[LITA_Capstone_Saledataset]
+GROUP BY 
+    Product
+ORDER BY 
+    TotalRevenue DESC;
+  - [Total Revenue by Sales](https://github.com/user-attachments/assets/118aa14e-dc09-49c8-83a7-4dc09d5e851a)
+
 
 
 
