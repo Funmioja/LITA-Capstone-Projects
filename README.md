@@ -71,6 +71,6 @@ Assume we have a table called sales_data with the following structure:
 - Summarize total sales (revenue) by product, region, and month.
 - Calculate average sales per product.
 - Determine total revenue by region.
-#I will be working on this fill steps 
+- I will be working on this fill steps 
 
 
