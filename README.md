@@ -45,8 +45,9 @@ Using a SUMIF formula, I calculated the total revenue for each region as follows
 - =SUMIF(Region, "Region Name", Total Sales)
 - [Total Revenue by Region](https://github.com/user-attachments/assets/1514d496-15a5-4c37-9466-2c5287ef456d)
 
-
-
+### Summary
+This initial analysis provides a foundational understanding of the sales data and highlights 
+key insights such as monthly trends, high-revenue customers, and revenue performance.
 
 
 
