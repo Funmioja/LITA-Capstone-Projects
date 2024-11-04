@@ -8,13 +8,13 @@ Additional analyses were conducted to uncover interesting patterns in the data, 
 
 ## Data Summary
 The dataset contains the following columns:
-OrderID: Unique identifier for each order
-Customer Id: Identifier for the customer who placed the order
-Product: Product type (in this case, "Gloves" is the only product category)
-Region: Sales region (in this dataset, only the "East" region is present)
-OrderDate: Date of the order
-Quantity: Quantity of products ordered
-UnitPrice: Price per unit of the product
+- OrderID: Unique identifier for each order
+- Customer Id: Identifier for the customer who placed the order
+- Product: Product type (in this case, "Gloves" is the only product category)
+- Region: Sales region (in this dataset, only the "East" region is present)
+- OrderDate: Date of the order
+- Quantity: Quantity of products ordered
+- UnitPrice: Price per unit of the product
 
 
 
