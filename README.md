@@ -183,6 +183,9 @@ THEN 1 ELSE 0 END) = 0
 ## Overview
 
 - This Power BI report will guide you through an interactive dashboard to visualize sales insights, focusing on:
+- Sales Overview
+- Top-Performing Products
+- Regional Sales Breakdown
 
 
 
