@@ -71,8 +71,9 @@ Assume we have a table called sales_data with the following structure:
 - Calculate to Retrive the total sales for easch product category.
 - find the number of sales transactions in each region.
 - find the highest-selling product by total sales value..
-- I will be working on this fill steps 
-
+- calculate total revenue per product.
+- calculate monthly sales totals for the current year.
+  
 ## Calculate to Retrive the total sales for easch product category
 - we can use this SQL query 
 - SELECT 
@@ -122,7 +123,7 @@ ORDER BY
     TotalRevenue DESC;
   - [Total Revenue by Sales](https://github.com/user-attachments/assets/118aa14e-dc09-49c8-83a7-4dc09d5e851a)
 
-
+## calculate monthly sales totals for the current year.
 
 
 
