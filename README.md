@@ -208,6 +208,8 @@ THEN 1 ELSE 0 END) = 0
 -  Top-Performing Products Section,
 In this section, I will be visualizing the total sales by product using Clustered Bar Chart visual.
   - Chart set up in the format: Axis: Product, Values: Sum of TotalSales
+  - [Top product PBI](https://github.com/user-attachments/assets/983d4d40-360b-4608-a2fc-1324d804a263)
+
 
 
 
