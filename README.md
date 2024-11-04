@@ -205,6 +205,10 @@ THEN 1 ELSE 0 END) = 0
 -  Total Sales KPI using a card format
 -  [Totalsale PBI](https://github.com/user-attachments/assets/eb3841a4-739a-40b3-b21e-cf84a6b03a02)
 
+-  Top-Performing Products Section,
+In this section, I will be visualizing the total sales by product using Clustered Bar Chart visual.
+  - Chart set up in the format: Axis: Product, Values: Sum of TotalSales
+
 
 
 
