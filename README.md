@@ -85,8 +85,7 @@ GROUP BY
 ORDER BY 
     TotalSales DESC;
   - [Totale Sales SQL](https://github.com/user-attachments/assets/fcdd5d5b-b259-4474-9ed0-8c1e32fd30dc)
-
-- Calculate to find the number of sales transactions in each region.
+## Calculate to find the number of sales transactions in each region.
 - SELECT 
     Region, 
     COUNT(*) AS NumberOfTransactions
@@ -98,7 +97,7 @@ ORDER BY
     NumberOfTransactions DESC;
   - [Sales by Region](https://github.com/user-attachments/assets/4d9a732e-1667-4dae-ba3c-b75ee2801711)
  
-find the highest-selling product by total sales value.
+## find the highest-selling product by total sales value.
   - 
 
 
