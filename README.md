@@ -28,13 +28,13 @@ Total Sales = Quantity * UnitPrice
 - [Total Sale](https://github.com/user-attachments/assets/37178c9a-82bb-42ac-8d31-d6769a501c03)
 
 ## Summary of Total Sales by Product, Region, and Month
-We used a pivot table to analyze Total Sales by:
+I used a pivot table to analyze Total Sales by:
 - Product: Grouped by each product category.
 - Region: Grouped by each sales region.
 - Month and Year: Grouped by month and year of the OrderDate field.
 ![Summary of Total Sales, Region and Month](https://github.com/user-attachments/assets/d25a6e14-b853-44b3-8db0-92241fea2a3b)
 
-
+## Average Sales per Product
 
 
 
