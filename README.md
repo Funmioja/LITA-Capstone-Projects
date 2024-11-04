@@ -58,5 +58,13 @@ These SQL queries can be used to quickly gather insights into the data for repor
 
 ## Table Structure
 Assume we have a table called sales_data with the following structure:
+- Column	Data Type	Description
+- OrderID	INT	Unique identifier for each order
+- CustomerId	VARCHAR	Unique identifier for each customer
+- Product	VARCHAR	Product name (in this case, "Gloves")
+- Region	VARCHAR	Region where the sale occurred (e.g., "East")
+- OrderDate	DATE	Date when the order was placed
+- Quantity	INT	Number of items ordered
+- UnitPrice	SMALLINT	Price per unit of the product
 
 
