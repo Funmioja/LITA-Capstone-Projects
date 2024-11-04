@@ -32,6 +32,8 @@ We used a pivot table to analyze Total Sales by:
 - Product: Grouped by each product category.
 - Region: Grouped by each sales region.
 - Month and Year: Grouped by month and year of the OrderDate field.
+![Summary of Total Sales, Region and Month](https://github.com/user-attachments/assets/d25a6e14-b853-44b3-8db0-92241fea2a3b)
+
 
 
 
