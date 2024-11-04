@@ -139,6 +139,17 @@ ORDER BY
   - [Sales by Month](https://github.com/user-attachments/assets/7b8572be-1f10-4360-b32c-bdfb2350d9e8)
     
 ## find the top 5 customers by total purchase amount.
+- SELECT TOP 5 
+    Customer_Id, 
+    SUM(Quantity * UnitPrice) AS TotalPurchaseAmount
+FROM 
+    [dbo].[LITA_Capstone_Saledataset]
+GROUP BY 
+    Customer_Id
+ORDER BY 
+    TotalPurchaseAmount DESC;
+  - [Top 5 Customer](https://github.com/user-attachments/assets/2e267175-a587-43db-b167-a50cb32addca)
+
 
 
 
