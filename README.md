@@ -198,6 +198,10 @@ THEN 1 ELSE 0 END) = 0
 
 ## Dashboard Layout & Visualizations
 # Sales Overview Section
+- This section will include a monthly sales trend chart and total sales KPI.
+-  Monthly Sales Trend Chart
+-  [Sum of sales per month](https://github.com/user-attachments/assets/4bbf92ef-f3bd-4d90-b5f2-ce07a73803f1)
+
 
 
 
