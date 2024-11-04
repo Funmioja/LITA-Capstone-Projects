@@ -49,6 +49,7 @@ Using a SUMIF formula, I calculated the total revenue for each region as follows
 This initial analysis provides a foundational understanding of the sales data and highlights 
 key insights such as monthly trends, high-revenue customers, and revenue performance.
 
+### SQL Sales Data Analysis Report
 
 
 
