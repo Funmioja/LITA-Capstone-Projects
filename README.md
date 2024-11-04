@@ -215,6 +215,8 @@ This section, i will be  useing  a pie chart to show the breakdown of total sale
 Seting up the chart:
 Legend: Region
 Values: Sum of TotalSales
+- [Regional Breakdown](https://github.com/user-attachments/assets/1bad5ab0-28b0-4371-bd6c-75ad605f7189)
+
 
 
 
