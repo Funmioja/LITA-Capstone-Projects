@@ -22,6 +22,11 @@ The dataset contains the following columns:
 - Determine total revenue by region.
 - Highlight additional insights, such as monthly trends, top customers, and year-over-year performance.
 
+# Excel Analysis
+Find attached the Pivot Table Analaysis conducted on the Product, Region and Month attached with a sclier 
+- [Pivot Table Analysis for SaleData](https://github.com/user-attachments/assets/5c18d439-5a4c-4536-bca6-23f7718f3412)
+
+
 ## Data Preparation
 To facilitate analysis, I calculated Total Sales by adding a new column using the formula:
 Total Sales = Quantity * UnitPrice
