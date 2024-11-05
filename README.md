@@ -23,7 +23,7 @@ The dataset contains the following columns:
 - Highlight additional insights, such as monthly trends, top customers, and year-over-year performance.
 
 # Excel Analysis
-Find attached the Pivot Table Analaysis conducted on the Product, Region and Month attached with a sclier 
+Find attached the Pivot Table Analaysis conducted on the Product, Region and Month attached with a sclier on Pivot Table Dasboard. 
 - [Pivot Table Analysis for SaleData](https://github.com/user-attachments/assets/5c18d439-5a4c-4536-bca6-23f7718f3412)
 
 
