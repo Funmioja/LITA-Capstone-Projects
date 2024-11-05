@@ -1,5 +1,5 @@
-#### LITA-Capstone-Projects
-### Sales Data Analysis Report on Capstone project
+# LITA-Capstone-Projects
+## Sales Data Analysis Report on Capstone project
 ## Overview
 This report provides an initial exploration of a sales dataset to identify key insights and trends. 
 I performed a basic analysis using pivot tables and Excel formulas to calculate metrics, 
